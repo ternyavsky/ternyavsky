@@ -1,6 +1,6 @@
 ### Hi there 👋
-![88458558-8c31eb80-ceac-11ea-8058-a555f9e1b660](https://user-images.githubusercontent.com/105453132/227789044-d29e6d24-6710-4541-8189-c937c9d02954.png)
 
+ file:///home/ternyavsky/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/88458558-8c31eb80-ceac-11ea-8058-a555f9e1b660.png
     
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
